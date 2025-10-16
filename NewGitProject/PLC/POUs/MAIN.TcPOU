@@ -5,6 +5,7 @@
 VAR
 	CounterFromUser1	: DINT;
 	newvar	: DINT;
+	newvarFromUser1: DINT;
 END_VAR
 ]]></Declaration>
     <Implementation>
