@@ -3,15 +3,13 @@
   <POU Name="MAIN" Id="{185222de-2f69-4bea-a76f-3614533a9172}" SpecialFunc="None">
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
-	CounterFromUser1	: DINT;
 END_VAR
 ]]></Declaration>
     <Implementation>
-      <ST><![CDATA[CounterFromUser1	:= CounterFromUser1 +2;
-]]></ST>
+      <ST><![CDATA[]]></ST>
     </Implementation>
     <LineIds Name="MAIN">
-      <LineId Id="1" Count="1" />
+      <LineId Id="1" Count="0" />
     </LineIds>
   </POU>
 </TcPlcObject>
