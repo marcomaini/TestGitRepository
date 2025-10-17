@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1">
+  <POU Name="SecondPouCreatedFromUser1" Id="{23c9bc51-90da-48f5-9c99-1434c8e1270a}" SpecialFunc="None">
+    <Declaration><![CDATA[PROGRAM SecondPouCreatedFromUser1
+VAR
+END_VAR
+]]></Declaration>
+    <Implementation>
+      <ST><![CDATA[]]></ST>
+    </Implementation>
+  </POU>
+</TcPlcObject>
