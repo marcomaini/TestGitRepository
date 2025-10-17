@@ -4,6 +4,7 @@
     <Declaration><![CDATA[PROGRAM MAIN
 VAR
 	CounterFromUser1	: DINT;
+	newvarlocaltarget	: LREAL;
 	newvar	: DINT;
 	newvarFromUser1: DINT;
 END_VAR
